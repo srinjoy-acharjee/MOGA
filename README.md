@@ -28,6 +28,8 @@ Constraint Handling: Specify any constraints or limitations on the optimization 
 Implementation: Integrate MOGA with your dataset and problem specifications, utilizing libraries or frameworks that support multi-objective optimization.
 Validation: Validate the performance of MOGA using your dataset, comparing obtained solutions with domain-specific expectations or benchmarks.
 
+Note: except .classpath and .project make sure every file is in 'SRC' folder
+
 
 Example :
 
